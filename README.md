@@ -87,9 +87,14 @@ This repository contains a reference for sql (using SQL Server) and database con
 
 ### Structure of Relational Database
 
+- [Video](https://youtu.be/v5xT9i60k8U)
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Database Schema
+
+- [Video](https://youtu.be/4IZjCe2c6rQ)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
