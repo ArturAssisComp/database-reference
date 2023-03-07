@@ -100,6 +100,8 @@ This repository contains a reference for sql (using SQL Server) and database con
 
 ### Keys
 
+- [Video](https://youtu.be/1F7z_vq1NXQ)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Schema Diagram
