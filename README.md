@@ -106,6 +106,9 @@ This repository contains a reference for sql (using SQL Server) and database con
 
 ### Schema Diagram
 
+- [Video](https://youtu.be/jjM6wYzFoL0)
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Relational Query Languages
