@@ -87,33 +87,33 @@ This repository contains a reference for sql (using SQL Server) and database con
 
 ### Structure of Relational Database
 
-- [Video](https://youtu.be/v5xT9i60k8U)
+- [Structure of Relational Database](https://youtu.be/v5xT9i60k8U)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Database Schema
 
-- [Video](https://youtu.be/4IZjCe2c6rQ)
+- [Database Schema](https://youtu.be/4IZjCe2c6rQ)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Keys
 
-- [Video](https://youtu.be/1F7z_vq1NXQ)
+- [Keys](https://youtu.be/1F7z_vq1NXQ)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Schema Diagram
 
-- [Video](https://youtu.be/jjM6wYzFoL0)
+- [Schema Diagram](https://youtu.be/jjM6wYzFoL0)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Relational Query Languages
 
-- [Video](https://youtu.be/cDfS9L3wKJQ)
+- [Relational Query Languages](https://youtu.be/cDfS9L3wKJQ)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
