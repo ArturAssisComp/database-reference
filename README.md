@@ -89,7 +89,6 @@ This repository contains a reference for sql (using SQL Server) and database con
 
 - [Structure of Relational Database](https://youtu.be/v5xT9i60k8U)
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Database Schema
@@ -108,17 +107,14 @@ This repository contains a reference for sql (using SQL Server) and database con
 
 - [Schema Diagram](https://youtu.be/jjM6wYzFoL0)
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Relational Query Languages
-
 - [Relational Query Languages](https://youtu.be/cDfS9L3wKJQ)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Relational Operations
-
+- [Introduction](https://youtu.be/oRei5AL3ngw)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
