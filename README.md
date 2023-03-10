@@ -113,6 +113,8 @@ This repository contains a reference for sql (using SQL Server) and database con
 
 ### Relational Query Languages
 
+- [Video](https://youtu.be/cDfS9L3wKJQ)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Relational Operations
