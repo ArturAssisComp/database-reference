@@ -115,6 +115,7 @@ This repository contains a reference for sql (using SQL Server) and database con
 
 ### Relational Operations
 - [Introduction](https://youtu.be/oRei5AL3ngw)
+- [Select Operation](https://youtu.be/kzDGyREyLwM)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
